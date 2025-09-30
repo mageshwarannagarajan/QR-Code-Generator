@@ -4,4 +4,5 @@ Added real-time customization for size and background color, with preview and do
 
 Designed a clean, intuitive UI using modern CSS for enhanced user experience
 
-<img width="1050" height="657" alt="image" src="https://github.com/user-attachments/assets/93f50a05-22b4-411c-89c6-834dc0cff359" />
+<img width="1909" height="967" alt="Screenshot 2025-09-30 131056" src="https://github.com/user-attachments/assets/4a637d77-60d9-41d5-abc1-fbec0341c399" />
+
